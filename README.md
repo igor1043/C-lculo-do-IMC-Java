@@ -1,9 +1,5 @@
-# Projetos em Java
-## Pequenos projetos e testes simples em linguagem Java
 
-#### Os programas apresentados neste repositório são apenas projetos simples e testes escritos na linguagem Java.
-#### Alguns destes programas são utilitários e scripts que podem ser utilizados no dia-a-dia para realização de algumas funções.
-#### Os programas aqui contidos foram desenvolvidos pensando nas plataformas Linux e UNIX em geral.
+
 
 ## Cálculo do IMC
 
@@ -13,3 +9,19 @@
 #### O programa utiliza o terminal ou prompt de comando e pede ao usuário que insira o seu peso em quilogramas e sua altura em metros.
 #### Ao final do processo, o programa mostra o valor do IMC em quilogramas por metro quadrado.
 #### Programa similar a este e escrito em C++ pode ser encontrado neste repositório:  
+
+# Projetos em Java
+## Pequenos projetos e testes simples em linguagem Java
+Os programas apresentados neste repositório são apenas projetos simples e testes escritos na linguagem Java.
+Alguns destes programas são utilitários e scripts que podem ser utilizados no dia-a-dia para realização de algumas funções.
+Os programas aqui contidos foram desenvolvidos pensando nas plataformas Linux e UNIX em geral.
+
+
+JavaScripty
+## Sobre este repositório
+
+Jogo da velha utilizando HTML, CSS e JS. Utilizando Algortimos de inteligencia artificial (MINIMAX) para determinar as escolhas do adversario.
+
+## Autor
+
+* Igor Vincius Freitas de Souza
