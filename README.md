@@ -1,12 +1,6 @@
 
 
 
-## 
-
-### Descrição:
-
-  
-
 # Cálculo do IMC
 ## Pequenos projetos e testes simples em linguagem Java
 Os programas apresentados neste repositório são apenas projetos simples e testes escritos na linguagem Java.
